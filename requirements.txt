@@ -1,6 +1,5 @@
 dicttoxml==1.7.4
 Django==3.2.12
-h5py==2.7.0
 pyparsing==2.2.0
 pytz==2017.2
 six==1.10.0
