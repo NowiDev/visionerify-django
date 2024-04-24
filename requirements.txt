@@ -1,13 +1,11 @@
 absl-py==1.4.0
 altair==5.3.0
-apturl==0.5.2
 argcomplete==1.8.1
 asgiref==3.5.0
 astunparse==1.6.3
 attrs==21.2.0
 bcrypt==3.2.0
 blinker==1.4
-Brlapi==0.8.3
 cachetools==5.3.0
 certifi==2020.6.20
 cffi==1.16.0
@@ -16,7 +14,6 @@ charset-normalizer==3.3.2
 cliapp==1.20180812.1
 click==8.0.3
 colorama==0.4.4
-command-not-found==0.3
 contourpy==1.0.7
 cryptography==3.4.8
 cupshelpers==1.0
